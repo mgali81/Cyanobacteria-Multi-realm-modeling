@@ -7,7 +7,5 @@ Title: "Future increase of filamentous cyanobacteria in coastal Baltic Sea predi
 
 Author: "Abdelgadir et al.
 
-The R code file contains
-1- Ensemble (ESDM) and stacked species modeling (SSDM) of Cyanobacteria using stacked multiple realm layers
-2- Value extraction from current and future raster layers
+The R code file contains Ensemble (ESDM) and stacked species modeling (SSDM) of Cyanobacteria using stacked multiple realm layers, and value extraction from current and future raster layers
 
